@@ -15,8 +15,10 @@ DocSumAI is an advanced AI-powered tool designed to summarize documents efficien
 7. [Contributing](#contributing)
 8. [License](#license)
 9. [Contact](#contact)
+<img width="1710" alt="Screenshot 2025-02-02 at 6 00 53 PM" src="https://github.com/user-attachments/assets/aa131d64-8828-4420-9bf6-4ea7da99d85d" />
 
 ---
+
 
 ## Features ✨
 
