@@ -1,0 +1,31 @@
+# Web application framework
+streamlit
+
+# Natural Language Processing libraries
+spacy
+transformers
+pypdf
+nltk
+beautifulsoup4
+requests
+
+# Groq client (if available via pip)
+groq
+
+# Langchain related libraries (if required by your project)
+langchain
+# or if you need specific community/core versions, adjust accordingly:
+# langchain-community
+# langchain-core
+
+# Environment variable management
+python-dotenv
+
+# Hugging Face Hub for model authentication and management
+huggingface_hub
+
+# Evaluation and visualization tools
+rouge_score
+matplotlib
+seaborn
+langchain_community
